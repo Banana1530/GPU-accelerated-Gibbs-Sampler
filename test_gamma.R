@@ -1,0 +1,8 @@
+library("readr")
+library("e1071")
+suppressMessages(ex <- read_csv("./result_gamma.txt", col_names=FALSE))
+hist(ex$X1,density=TRUE)
+print(paste("mean = ",mean(ex$X1)))
+print(paste("var  = ",var(ex$X1)))
+print(paste("skew = ",skewness(ex$X1)))
+dev.off()
