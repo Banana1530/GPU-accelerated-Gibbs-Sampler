@@ -6,6 +6,11 @@ __global__ void initialize_state(curandState *states)
     curand_init(9384, tid, 0, states + tid); // seed, subsequence, offset, state
 }
 
+// Ref:
+// Terenin, Alexander, Shawfeng Dong, and David Draper. 
+// "GPU-accelerated Gibbs sampling: a case study of the Horseshoe Probit model." 
+// Statistics and Computing (2018): 1-10.
+
 __global__ void rgamma(curandState *states, float *d_res, float *d_alpha, float *d_beta)
 {
     // WARNING: CPU can already give satifactory performance
