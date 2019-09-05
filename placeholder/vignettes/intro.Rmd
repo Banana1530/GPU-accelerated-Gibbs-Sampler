@@ -29,7 +29,7 @@ Bayesian inference is a "simple" trilogy:
 
 The hierarchical Bayesian model proposed in @makalic2016high is interesting in that it features continuous shrinkage prior densities and heavy-tailed error models. Formally, for responses $z = \{z_1, \cdots, z_n \}$ and data matrix $X = (x_1,\cdots, x_n)^T \in \mathbb{R}^{n \times p}$ of $p$ predictors, we construct the following hierarchical model.
 
-<center><img src="classic.png" style="width: 25%" title="Graphical Representation" /><br></center>
+<center><img src="graphical.png" style="width: 40%" title="Graphical Representation" /><br></center>
 
 The model consists of two major components: 
 
