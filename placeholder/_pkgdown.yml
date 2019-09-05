@@ -1,0 +1,21 @@
+authors:
+  Luofeng Liao:
+    href: https://www.linkedin.com/in/luofeng-liao-7a1027181/
+  
+template:
+  params:
+    ganalytics: UA-000000-01
+
+components:
+  home: ~
+  articles:
+    text: intro
+    
+navbar:
+  type: inverse
+  right:
+    - icon: fa-github fa-lg
+      href: https://github.com/Banana1530/GPU-accelerated-Gibbs-Sampler
+  left:
+    - text: Home
+      href: articles/intro.html
