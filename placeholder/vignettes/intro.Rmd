@@ -148,7 +148,7 @@ We should also note that, despite exciting results, GPU could not handle super-l
 
 Thank Dr. Enes Makalic from University of Melbourne for the idea of the project. Thank Google Cloud Platform (GCP) for free education credits to cloud computing service. Finally a huge thankyou to Nvidia engineers for bringing these amazing toys to our world.
 
-Liao acknowledges the support of XiYuan Undergraduate Academic Program of Fudan University. __The project is awarded the Runnerup Award out of around 30 equally competitive posters in the student poster section of [2018 Fudan Science and Innovation Forum](http://www.fbdc.fudan.edu.cn/Data/View/72).__
+Liao acknowledges the support of XiYuan Undergraduate Academic Program of Fudan University. __The project is awarded the Runnerup Award out of around 30 equally competitive posters in the student poster section of [2018 Fudan Science and Innovation Forum](https://fbdc.fudan.edu.cn/2018/27/66/c20519a206694/page.htm).__
 
 
 ## References
