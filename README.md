@@ -1,7 +1,7 @@
 # GPU-accelerated Gibbs Sampler
 The [poster](https://github.com/Banana1530/GPU-accelerated-Gibbs-Sampler/blob/master/LLF-poster-final.jpg) here gives a thorough description of the entire project, including a description of the model, a simulation study comparing the model with lasso, and benchmark results in comparison with its MATLAB implementation. It gains at most 100x speed-up on super large dataset.
 
-__The poster is awarded the Runnerup Award out of around 30 equally competitive posters in the student poster section of [2018 Fudan Science and Innovation Forum](http://www.fbdc.fudan.edu.cn/Data/View/72).__
+__The poster is awarded the Runnerup Award out of around 30 equally competitive posters in the student poster section of [2018 Fudan Science and Innovation Forum](https://fbdc.fudan.edu.cn/2018/27/66/c20519a206694/page.htm).__
 
 ![poster](LLF-poster-final.jpg)
 
